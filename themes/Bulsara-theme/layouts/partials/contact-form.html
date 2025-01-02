@@ -1,0 +1,80 @@
+<div class="contact-section">
+  <strong> {{ .Site.Params.contactUsText }} </strong>
+
+  <!-- Contact Form Wrapper -->
+  <div class="contact-form-wrapper">
+    <!-- Replacing <form ... wpcf7-form> with a simpler HTML form -->
+    <form class="contact-form" action="/en/contact" method="post" novalidate>
+      <!-- If you need hidden fields (like recaptcha tokens, IDs, etc.), add them here -->
+      <input type="hidden" name="form_id" value="contactFormEn" />
+
+      <div class="form-group">
+        <label for="your-name" class="form-label">Your name</label>
+        <input
+          type="text"
+          id="your-name"
+          name="your-name"
+          class="form-control"
+          required
+        />
+      </div>
+
+      <div class="form-group">
+        <label for="your-email" class="form-label">Your email</label>
+        <input
+          type="email"
+          id="your-email"
+          name="your-email"
+          class="form-control"
+          required
+        />
+      </div>
+
+      <div class="form-group">
+        <label for="your-subject" class="form-label">Subject</label>
+        <input
+          type="text"
+          id="your-subject"
+          name="your-subject"
+          class="form-control"
+          required
+        />
+      </div>
+
+      <div class="form-group">
+        <label for="your-message" class="form-label">Message</label>
+        <textarea
+          id="your-message"
+          name="your-message"
+          class="form-control"
+          rows="6"
+          required
+        ></textarea>
+      </div>
+
+      <button type="submit" class="btn btn-submit">Send</button>
+
+      <!-- If you have form status or server response messages, show them here -->
+      <div class="form-response" aria-live="polite"></div>
+    </form>
+  </div>
+
+  <!-- Additional contact info section -->
+  <div class="contact-info">
+    <p class="parrafoMobile">
+      <strong>
+        E-mail: 
+        <a href= "mailto:{{ .Site.Params.contactEmail }}" class= "email-link">
+          {{ .Site.Params.contactEmail }} 
+        </a>
+    </p>
+    <p class="parrafoMobile">
+      <strong>
+        Phone:
+        <a href="tel:{{ .Site.Params.contactPhoneNumber }}" class="phone-link">
+          {{ .Site.Params.contactPhoneNumber }}
+        </a>
+      </strong>
+    </p>
+  </div>
+</div>

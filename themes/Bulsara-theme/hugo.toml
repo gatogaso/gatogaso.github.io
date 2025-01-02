@@ -1,0 +1,40 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-US'
+title = 'My New Hugo Site'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 50
+
+[[menus.main]]
+identifier = 'About-Us'
+name = 'About Us'
+pageRef = '/About-Us'
+weight = 30
+
+[[menus.main]]
+identifier = 'Contact-Us'
+name = 'Contact Us'
+pageRef = '/Contact-Us'
+weight = 40
+
+[params]
+    contactPhoneNumber = "+34606729279"
+    contactEmail = "bulsara.tributo@gmail.com"
+
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
