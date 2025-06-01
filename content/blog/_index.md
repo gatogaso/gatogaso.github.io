@@ -1,9 +1,7 @@
 +++
-title = 'Blog'
-date = 2023-01-01T08:30:00-07:00
+title = "Blog"
+date = 2025-01-10T10:00:00
 draft = false
+image = "/images/sant-boi.jpg" # Ruta de la imagen
+description = "Una noche inolvidable en la Fiesta Mayor de Sant Boi."
 +++
-
-This is our fucking blog. Enjoy it!
-
-Tempor est exercitation ad qui pariatur quis adipisicing aliquip nisi ea consequat ipsum occaecat. Nostrud consequat ullamco laboris fugiat esse esse adipisicing velit laborum ipsum incididunt ut enim. Dolor pariatur nulla quis fugiat dolore excepteur. Aliquip ad quis aliqua enim do consequat.

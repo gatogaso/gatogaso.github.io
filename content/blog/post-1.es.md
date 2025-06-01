@@ -1,9 +1,13 @@
 +++
-title = 'Post 1'
-date = 2023-01-15T09:00:00-07:00
+title = "Concierto en Hard Rock Café, Barcelona"
+date = 2025-01-10T10:00:00
 draft = false
-tags = ['red']
+image = "/images/IMG_1410.JPG"
+location = "Barcelona, España"
+description = "Una noche inolvidable en el Hard Rock Café."
 +++
+
+![Tributo a Queen](/images/bulsara-tributo-a-queen.jpg)
 
 Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.
 
