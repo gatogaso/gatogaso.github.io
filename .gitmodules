@@ -1,3 +1,4 @@
 [submodule "themes/Bulsara-theme"]
 	path = themes/Bulsara-theme
 	url = https://Natamrosa6@github.com/Natamrosa6/Bulsara-theme.git
+	branch = test/dev
