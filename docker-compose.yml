@@ -7,5 +7,12 @@ services:
       - "1313:1313"
     volumes:
       - .:/src
+      - ~/hugo_cache:/tmp/hugo_cache
     working_dir: /src
-    command: hugo server --bind 0.0.0.0 --port 1313 --buildDrafts --buildFuture --renderToMemory
+    command: hugo server --bind 0.0.0.0 --port 1313 --buildDrafts --buildFuture --disableFastRender --renderToMemory --poll 700ms --noHTTPCache --gc -w
+    # command: server -D --disableFastRender --poll 700ms
+volumes:
+  hugo_cache:
+  .:
+    driver: local
+    name: "hugo_site_volume"
