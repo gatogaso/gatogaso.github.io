@@ -1,0 +1,73 @@
+name: CD
+on:
+  workflow_dispatch:
+    inputs:
+      key:
+        description: "AWS Access Key Id."
+        required: true
+        default: ""
+      secret:
+        description: "AWS Access Key Secret."
+        required: true
+        default: ""
+      region:
+        description: "AWS Region."
+        required: true
+        default: "us-east-1"
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+defaults:
+  run:
+    shell: bash
+jobs:
+  get-staging:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Oslo
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      # TODO(dmoreno): Is the following really needed?
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Create directory for user-specific executable files
+        run: |
+          mkdir -p "${HOME}/.local"
+
+      # TODO(dmoreno): Is the following really needed?
+      - name: Configure Git
+        run: |
+          git config core.quotepath false
+
+      - name: Cache restore
+        id: cache-restore
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ runner.temp }}/hugo_cache
+          key: hugo-${{ github.run_id }}
+          restore-keys:
+            hugo-
+
+  # TODO(dmoreno): Specify the proper flow for production deployment
+  # deploy:
+  #   environment:
+  #     name: production
+  #     AWS_ACCESS_KEY_ID: ${{ github.event.inputs.key }}
+  #     AWS_SECRET_ACCESS_KEY: ${{ github.event.inputs.secret }}
+  #     AWS_DEFAULT_REGION: ${{ github.event.inputs.region }}
+  #   runs-on: ubuntu-latest
+  #   needs: get-staging
+  #   steps:
+  #     - name: Deploy infrastruture
+  #       id: deploy-infra
+  #       uses: ...
