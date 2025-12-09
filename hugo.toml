@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
+languageCode = 'es'
 title = 'Bulsara'
 theme = 'Bulsara-theme'
 
