@@ -4,9 +4,9 @@ A continuación se detallan los pasos para clonar el repositorio y correr el sit
 
 1. Clonar el repositorio y la rama correcta
 
-  Usa el siguiente comando para clonar el proyecto y asegurarte de traer también los submódulos necesarios. Además, este comando posiciona directamente en la rama `gaston-content`, que es donde    se gestiona el contenido:
+  Usa el siguiente comando para clonar el proyecto y asegurarte de traer también los submódulos necesarios:
   
-  git clone --recurse-submodules -b gaston-content https://github.com/Natamrosa6/Bulsara.git
+  git clone --recurse-submodules https://github.com/gatogaso/gatogaso.github.io Bulsara
   
 ⸻
 2. Entrar a la carpeta del proyecto
