@@ -11,11 +11,11 @@ En este caso me gustaría hacer un análisis de la reedición del disco The Mira
 
 Esta edición es presentada en una caja de lujo del tamaño de un disco de vinilo donde aparte del mismo LP en vinilo con los mismos temas del original de 1989, incluía Too Much Love Will Kill You, cuatro CDs con el siguiente contenido:
 
-    CD 1- El disco the Miracle
-    CD 2- The Miracle Sessions, distintas tomas, demos y grabaciones inéditas de The Miracle.
-    CD 3- Alternative Miracle, más versiones de las canciones del disco.
-    CD 4- Miracu-Mentals, disco The Miracle totalmente instrumental y con backing track.
-    CD 5-The Miracle Radio Interviews, un CD con entrevistas a la banda y otras curiosidades.
+CD 1- El disco the Miracle
+CD 2- The Miracle Sessions, distintas tomas, demos y grabaciones inéditas de The Miracle.
+CD 3- Alternative Miracle, más versiones de las canciones del disco.
+CD 4- Miracu-Mentals, disco The Miracle totalmente instrumental y con backing track.
+CD 5- The Miracle Radio Interviews, un CD con entrevistas a la banda y otras curiosidades.
 
 Acompañado por un BLU-RAY y DVD llamado The Miracle Videos, con todos los videos musicales que se hicieron con las canciones del LP con entrevistas y el making of de los videos y la portada.
 
