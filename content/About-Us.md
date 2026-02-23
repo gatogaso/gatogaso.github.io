@@ -1,19 +1,22 @@
 +++
 date = '2024-12-27T11:54:05+01:00'
 draft = false   
-title = 'About Us'
+title = 'Sobre nosotros'
 +++
 
-Bulsara it’s an specialized band on recreating the essence and spirit of the charismatic band Queen. The aesthetics, the sound, the performance and the selection of the songs are inspired in the most iconic performances of the band.
+**Bulsara** es una banda especializada en recrear el espíritu y la esencia de la carismática banda **Queen**.   
+La estética, el sonido, las interpretaciones y la selección de las canciones están inspiradas en las actuaciones más emblemáticas e icónicas del grupo.
 
-Bulsara has established itself, over time, as a safe bet, a show for all audiences backed by years of experience and the trust of its clients (international brands such as Hard Rock Café, corporate events and major parties).
+**Bulsara** se ha consolidado, con el paso del tiempo, como una apuesta segura, un show para todos los públicos avalado por años de experiencia y la confianza de sus clientes (marcas internacionales como Hard Rock Café, eventos corporativos y fiestas mayores).
 
-No one escapes the magnetism and intensity of living a live performance of hits like Bohemian Rhapsody, We Will Rock You, We Are The Champions, I Want To Break Free or The Show Must Go On. The group performs a repertoire that spans decades of hits and some of the best songs in history.
+Nadie escapa al magnetismo e intensidad de vivir en directo la interpretación de éxitos como *Bohemian Rhapsody*, *We Will Rock You*, *We Are The Champions*, *I Want To Break Free* o *The Show Must Go On*.
 
-Live again the magic of one of a kind band
+El grupo interpreta un repertorio que abarca décadas de éxitos y algunas de las mejores canciones de la historia.
 
-Live the Queen experience with Bulsara!
+Revive la magia de una banda irrepetible.
 
-![Tributo a Queen](/images/bulsara-tributo-a-queen.jpg)
+¡Vive la experiencia Queen de la mano de Bulsara!
 
-![Logo Bulsara](/images/logo_web-300x123.png)
+![Tributo a Queen](/images/BulsaraShooting-17.jpg)
+
+![Logo Bulsara](/images/logo_web-400x267.png)
