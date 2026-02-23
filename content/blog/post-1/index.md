@@ -2,20 +2,23 @@
 title = 'Album The Miracle (Edición coleccionista)'
 date = 2023-01-15T09:00:00-07:00
 draft = false
-tags = ['red']
+tags = ['The Miracle','BLU-RAY','DVD']
 +++
 
+![The Miracle](the-miracle.jpg)
+
+_______
 Vamos a comenzar una nueva sección en nuestro blog, donde hablaremos de historias, curiosidades y otras cosas de nuestro grupo favorito, Queen.
 
 En este caso me gustaría hacer un análisis de la reedición del disco The Miracle que salió el 18 de Noviembre del 2022 en una edición coleccionista que incluía varias canciones inéditas de la banda destacando Face It Alone que se publicaba por primera vez, y otras como When Love Breaks Up, You Know You Belong To Me, Dog With A Bone, Water y I Guess We’re Falling Out acompañado de un montón de material del que hablaré a continuación.
 
 Esta edición es presentada en una caja de lujo del tamaño de un disco de vinilo donde aparte del mismo LP en vinilo con los mismos temas del original de 1989, incluía Too Much Love Will Kill You, cuatro CDs con el siguiente contenido:
 
-CD 1- El disco the Miracle
-CD 2- The Miracle Sessions, distintas tomas, demos y grabaciones inéditas de The Miracle.
-CD 3- Alternative Miracle, más versiones de las canciones del disco.
-CD 4- Miracu-Mentals, disco The Miracle totalmente instrumental y con backing track.
-CD 5- The Miracle Radio Interviews, un CD con entrevistas a la banda y otras curiosidades.
+- CD 1 El disco **The Miracle**   
+- CD 2 **The Miracle Sessions**, distintas tomas, demos y grabaciones inéditas de The Miracle   
+- CD 3 **Alternative Miracle**, más versiones de las canciones del disco   
+- CD 4 **Miracu-Mentals**, disco The Miracle totalmente instrumental y con backing track   
+- CD 5 **The Miracle Radio Interviews**, un CD con entrevistas a la banda y otras curiosidades   
 
 Acompañado por un BLU-RAY y DVD llamado The Miracle Videos, con todos los videos musicales que se hicieron con las canciones del LP con entrevistas y el making of de los videos y la portada.
 
