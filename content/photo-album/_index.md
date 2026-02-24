@@ -1,7 +1,7 @@
 +++
 date = '2025-01-04T18:26:06+01:00'
 draft = false
-title = 'Photos'
+title = 'Fotos'
 +++
 
 ![Tributo a Queen](/images/bulsara-tributo-a-queen.jpg)
