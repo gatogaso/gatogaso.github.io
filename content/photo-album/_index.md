@@ -4,29 +4,29 @@ draft = false
 title = 'Fotos'
 +++
 
-![Freddie y público](/images/Bulsara01.jpg)
+![Freddie y público](/images/Bulsara01.JPG)
 
-![Freddie y Brian](/images/Bulsara02.jpg)
+![Freddie y Brian](/images/Bulsara02.JPG)
 
-![Brian](/images/Bulsara03.jpg)
+![Brian](/images/Bulsara03.JPG)
 
-![Brian](/images/Bulsara04.jpg)
+![Brian](/images/Bulsara04.JPG)
 
 ![Freddie Piano](/images/Bulsara05.jpg)
 
 ![Freddie y soprano](/images/Bulsara06.jpg)
 
-![Freddie y Brian](/images/Bulsara07.jpg)
+![Freddie y Brian](/images/Bulsara07.JPG)
 
-![Brian](/images/Bulsara08.jpg)
+![Brian](/images/Bulsara08.JPG)
 
-![Freddie](/images/Bulsara09.jpg)
+![Freddie](/images/Bulsara09.JPG)
 
-![Freddie](/images/Bulsara10.jpg)
+![Freddie](/images/Bulsara10.JPG)
 
-![Bulsara full](/images/Bulsara11.jpg)
+![Bulsara full](/images/Bulsara11.JPG)
 
-![Bulsara full](/images/Bulsara12.jpg)
+![Bulsara full](/images/Bulsara12.JPG)
 
 ![Bulsara Estudio](/images/Bulsara13.jpg)
 
@@ -52,7 +52,7 @@ title = 'Fotos'
 
 ![Bulsara Finish](/images/Bulsara24.jpg)
 
-![Bulsara Finish](/images/Bulsara25.jpg)
+![Bulsara Finish](/images/Bulsara25.JPG)
 
 ![Bulsara Finish](/images/Bulsara26.jpg)
 
@@ -64,17 +64,17 @@ title = 'Fotos'
 
 ![Freddie y Brian](/images/Bulsara30.jpg)
 
-![Freddie y Brian](/images/Bulsara31.jpg)
+![Freddie y Brian](/images/Bulsara31.JPG)
 
-![Freddie y Brian](/images/Bulsara32.jpg)
+![Freddie y Brian](/images/Bulsara32.JPG)
 
-![Bulsara full](/images/Bulsara33.jpg)
+![Bulsara full](/images/Bulsara33.JPG)
 
-![Freddie y John](/images/Bulsara34.jpg)
+![Freddie y John](/images/Bulsara34.JPG)
 
-![Freddie](/images/Bulsara35.jpg)
+![Freddie](/images/Bulsara35.JPG)
 
-![Bulsara full](/images/Bulsara36.jpg)
+![Bulsara full](/images/Bulsara36.JPG)
 
 ![Freddie y John](/images/Bulsara37.jpg)
 
