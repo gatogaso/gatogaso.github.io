@@ -4,28 +4,92 @@ draft = false
 title = 'Fotos'
 +++
 
-![Tributo a Queen](/images/bulsara-tributo-a-queen.jpg)
+![Freddie y público](/images/Bulsara01.jpg)
 
-![Logo Bulsara](/images/logo_web-300x123.png)
+![Freddie y Brian](/images/Bulsara02.jpg)
 
-![Tributo a Queen](/images/LuzDeGas-27_4_24-6.JPG)
+![Brian](/images/Bulsara03.jpg)
 
-![Concierto Murcia](/images/Murcia-05_12_24.jpg)
+![Brian](/images/Bulsara04.jpg)
 
-![Tributo a Queen](/images/bulsara-tributo-a-queen.jpg)
+![Freddie Piano](/images/Bulsara05.jpg)
 
-![Concierto Murcia](/images/Murcia-05_12_24.jpg)
+![Freddie y soprano](/images/Bulsara06.jpg)
 
-![Logo Bulsara](/images/logo_web-300x123.png)
+![Freddie y Brian](/images/Bulsara07.jpg)
 
-![Tributo a Queen](/images/bulsara-tributo-a-queen.jpg)
+![Brian](/images/Bulsara08.jpg)
 
-![Concierto Murcia](/images/Murcia-05_12_24.jpg)
+![Freddie](/images/Bulsara09.jpg)
 
-![Logo Bulsara](/images/logo_web-300x123.png)
+![Freddie](/images/Bulsara10.jpg)
 
-![Tributo a Queen](/images/bulsara-tributo-a-queen.jpg)
+![Bulsara full](/images/Bulsara11.jpg)
 
-![Concierto Murcia](/images/Murcia-05_12_24.jpg)
+![Bulsara full](/images/Bulsara12.jpg)
 
-![Concierto Murcia](/images/Murcia-05_12_24.jpg)
+![Bulsara Estudio](/images/Bulsara13.jpg)
+
+![Freddie Brian Estudio](/images/Bulsara14.jpg)
+
+![Freddie Brian Estudio](/images/Bulsara15.jpg)
+
+![Bulsara full Estudio](/images/Bulsara16.jpg)
+
+![Bulsara full Estudio](/images/Bulsara17.jpg)
+
+![Bulsara full Estudio](/images/Bulsara18.jpg)
+
+![Bulsara full Estudio](/images/Bulsara19.jpg)
+
+![Bulsara full Estudio](/images/Bulsara20.jpg)
+
+![Bulsara full Estudio](/images/Bulsara21.jpg)
+
+![Freddie y Brian](/images/Bulsara22.jpg)
+
+![Freddie y Brian](/images/Bulsara23.jpg)
+
+![Bulsara Finish](/images/Bulsara24.jpg)
+
+![Bulsara Finish](/images/Bulsara25.jpg)
+
+![Bulsara Finish](/images/Bulsara26.jpg)
+
+![Bulsara Finish](/images/Bulsara27.jpg)
+
+![Bulsara Finish](/images/Bulsara28.jpg)
+
+![Bulsara Finish](/images/Bulsara29.jpg)
+
+![Freddie y Brian](/images/Bulsara30.jpg)
+
+![Freddie y Brian](/images/Bulsara31.jpg)
+
+![Freddie y Brian](/images/Bulsara32.jpg)
+
+![Bulsara full](/images/Bulsara33.jpg)
+
+![Freddie y John](/images/Bulsara34.jpg)
+
+![Freddie](/images/Bulsara35.jpg)
+
+![Bulsara full](/images/Bulsara36.jpg)
+
+![Freddie y John](/images/Bulsara37.jpg)
+
+![Freddie](/images/Bulsara38.jpg)
+
+![Freddie y Brian](/images/Bulsara39.jpg)
+
+![Bulsara full](/images/Bulsara40.jpg)
+
+![Freddie](/images/Bulsara41.jpg)
+
+![Freddie](/images/Bulsara42.jpg)
+
+![Freddie y Brian](/images/Bulsara43.jpg)
+
+![Bulsara finish](/images/Bulsara44.jpg)
+
+![Bulsara finish](/images/Bulsara45.jpg)
