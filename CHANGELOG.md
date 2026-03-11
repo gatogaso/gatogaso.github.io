@@ -1,3 +1,9 @@
+## 0.2.1 (2026-03-11)
+
+### Fix
+
+- rename service and format dev json properly (#17)
+
 ## 0.2.0 (2025-12-09)
 
 ### Feat
