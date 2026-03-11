@@ -1,6 +1,5 @@
-[
-	{
-		"dockerComposeFile": "../docker-compose.yml",
-        "service": "hugo-dev"
-	}
-]
+{
+	"dockerComposeFile": "../docker-compose.yml",
+	"service": "hugo-dev",
+	"workspaceFolder": "/src"
+}

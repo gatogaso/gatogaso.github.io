@@ -1,8 +1,8 @@
 services:
-  hugo:
+  hugo-dev:
     # image: hugomods/hugo:exts-0.136.5
     image: hugomods/hugo:exts-0.152.2
-    container_name: hugo-dev
+    container_name: hugo-dev-container
     ports:
       - "1313:1313"
     volumes:
