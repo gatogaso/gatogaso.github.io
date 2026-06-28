@@ -1,3 +1,9 @@
+## 0.2.2 (2026-06-28)
+
+### Fix
+
+- update theme version fixing img gallery
+
 ## 0.2.1 (2026-03-11)
 
 ### Fix
